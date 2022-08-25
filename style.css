@@ -3,6 +3,7 @@
   --Light-gray: hsl(212, 45%, 89%);
   --Grayish-blue: hsl(220, 15%, 55%);
   --Dark-blue: hsl(218, 44%, 22%);
+  font-size: 62.5%;
 }
 
 *,
@@ -15,12 +16,10 @@
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
 }
 
 body {
   font-family: "Outfit", sans-serif;
-  font-size: 1.5rem;
   background-color: var(--Light-gray);
 
   display: flex;
